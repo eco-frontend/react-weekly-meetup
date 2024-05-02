@@ -8,3 +8,6 @@
 ## 스터디 일정
 변경이 없는 한 목요일 20시 정각 디스코드에서 참여 (특이사항 없을 시)
 빠듯한 날은 20:30 시작. 4주 마다 1회 휴식
+
+## 뽑기 링크
+http://classtrip.mireene.com/everyselection_roullet.php
