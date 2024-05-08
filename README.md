@@ -14,3 +14,7 @@ http://classtrip.mireene.com/everyselection_roullet.php
 
 ## 아티클 공유 링크 아카이브
 [위키](https://github.com/eco-frontend/react-weekly-meetup/wiki/%EA%B3%B5%EC%9C%A0-%EB%A7%81%ED%81%AC-%EC%A0%95%EB%A6%AC)
+
+## 리액트 공식문서
+[LEARN REACT](https://react.dev/learn)
+[LEARN REACT 한국어](https://ko.react.dev/learn)
