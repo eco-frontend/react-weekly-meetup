@@ -53,7 +53,7 @@
     
 - 결과물
     
-    ![Untitled](1-2%E1%84%8C%E1%85%A1%E1%86%BC,%20Importing%20and%20Exporting%20Components%20cfad000735fe401cbd8227b6ca029fc2/Untitled.png)
+    ![Untitled](1-2-1.png)
     
 
 이 예제의 컴포넌트들은 모두 `App.js` 라는 **root 컴포넌트 파일**에 존재한다.
@@ -134,11 +134,11 @@ React에서는 `'./Gallery.js'`  또는 `'./Gallery'` 둘 다 사용할 수 있�
 
 **다만 default export는 파일 당 하나의 export만 존재할 수 있고, named export는 여러 개 존재할 수 있다.**
 
-![Untitled](1-2%E1%84%8C%E1%85%A1%E1%86%BC,%20Importing%20and%20Exporting%20Components%20cfad000735fe401cbd8227b6ca029fc2/Untitled%201.png)
+![Untitled](1-2-2.png)
 
 Export 하는 방식에 따라 import 하는 방식이 정해진다. 
 
-![Untitled](1-2%E1%84%8C%E1%85%A1%E1%86%BC,%20Importing%20and%20Exporting%20Components%20cfad000735fe401cbd8227b6ca029fc2/Untitled%202.png)
+![Untitled](1-2-3.png)
 
 default import는 원한다면 import 이후 원하는 다른 이름으로 가져올 수 있다.
 
